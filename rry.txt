@@ -1,0 +1,2 @@
+We declare an array by specifying the data type and then u put a square bracket in front then the elements.of the area
+2. To reference an element of an array, we reference it by specifying the index number
